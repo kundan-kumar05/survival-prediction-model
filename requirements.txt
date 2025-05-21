@@ -18,7 +18,6 @@ cycler==0.12.1
 debugpy==1.8.12
 decorator==5.2.0
 Django==5.1.3
-dlib @ file:///C:/Users/kkast/Downloads/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
 executing==2.2.0
 face-recognition==1.3.0
 face_recognition_models==0.3.0
